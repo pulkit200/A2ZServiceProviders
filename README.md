@@ -1,3 +1,2 @@
 # A2ZServiceProviders
-This is a android application build on andriod studio. 
-This app provide various services to people at there door through user friendly interface.
+An android application build on android studio. It is a platform that provides various services to people at there door through a user-friendly interface.
